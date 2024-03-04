@@ -90,9 +90,6 @@ body {
     html {
         font-size: 75%;
     }
-    body{
-        overflow-y: hidden;
-    }
     .box {
         display: block;
         flex-direction: column;
