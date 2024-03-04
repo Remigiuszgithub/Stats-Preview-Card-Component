@@ -1,5 +1,5 @@
 # Frontend Mentor - Stats preview card component
-
+Live: https://remigiuszgithub.github.io/Stats-Preview-Card-Component/
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
